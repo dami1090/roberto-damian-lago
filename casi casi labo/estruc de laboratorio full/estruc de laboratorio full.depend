@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1505573323 source:c:\users\alumno\desktop\estruc de laboratorio full\lab.c
+	<stdio.h>
+	<stdlib.h>
+	"lab.h"
+	<string.h>
+	<conio.h>
+
+1505573356 source:c:\users\alumno\desktop\estruc de laboratorio full\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lab.h"
+	<string.h>
+	<conio.h>
+
+1505573294 c:\users\alumno\desktop\estruc de laboratorio full\lab.h
+
+1506084320 source:c:\users\alumno\desktop\roberto-damian-lago-master\estruc de laboratorio full\lab.c
+	<stdio.h>
+	<stdlib.h>
+	"lab.h"
+	<string.h>
+	<conio.h>
+
+1506084320 c:\users\alumno\desktop\roberto-damian-lago-master\estruc de laboratorio full\lab.h
+
+1505573443 source:c:\users\alumno\desktop\roberto-damian-lago-master\estruc de laboratorio full\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lab.h"
+	<string.h>
+	<conio.h>
+
